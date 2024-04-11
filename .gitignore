@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.c
 
 # Distribution / packaging
 .Python
@@ -163,3 +164,7 @@ cython_debug/
 #sbi stuff
 */sbi-logs
 .DS_Store
+
+#datafolder
+project2/HH_simulator/data/*
+project2/HH_simulator/sbi-logs
